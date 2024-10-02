@@ -14,7 +14,7 @@
               "activeView": "Code",
               "id": "1"
             },
-            "size": 512
+            "size": 640
           },
           {
             "type": "branch",
@@ -42,12 +42,12 @@
                 "size": 306
               }
             ],
-            "size": 512
+            "size": 640
           }
         ],
         "size": 612
       },
-      "width": 1024,
+      "width": 1280,
       "height": 612,
       "orientation": "HORIZONTAL"
     },

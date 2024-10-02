@@ -1,7 +1,7 @@
 appName: conceptual-coffee
 appUniqueId: faisalarrowai/conceptual-coffee
 description: This app will create slides presentation for you.
-appVersion: 1.0.1
+appVersion: 1.0.2
 appRepoUrl: https://github.com/faisalarrowai/19.git
 appIconUrl: you-app-icon-url
 appAuthorUserId: faisalarrowai
